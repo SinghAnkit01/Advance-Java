@@ -1,0 +1,3 @@
+This is used for writing content in java as a inputstream
+filereader and filewriter  comes in character-stream
+fileinputstream and fileoutputstream comes in Byte-stream
